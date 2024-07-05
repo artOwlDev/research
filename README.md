@@ -1,1 +1,3 @@
-THIS IS A CHANGE MADE TO README
+
+
+Changed event trigger to only a push event.
