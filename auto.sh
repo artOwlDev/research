@@ -3,4 +3,5 @@
 
 git add .
 git commit -m "test"
-git push
+git pushchmod +x auto_commit.sh
+
