@@ -1,4 +1,4 @@
-24
+25
 
 nt-repo/pulls{/number}',
     milestones_url: 'https://api.github.com/repos/artOwlDev/research-event-repo/milestones{/number}',
