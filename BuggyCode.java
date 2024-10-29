@@ -6,6 +6,7 @@ public class BuggyCode {
     private String email;
     private String phoneNumber;
     private String occupation;
+    private String testing;
  
     public BuggyCode(String name, int age, String address, String email, String phoneNumber, String occupation) {
         this.name = name;
@@ -14,6 +15,7 @@ public class BuggyCode {
         this.email = email;
         this.phoneNumber = phoneNumber;
         this.occupation = occupation;
+        this.testing = "hi";
     }
  
     public void printDetails() {
