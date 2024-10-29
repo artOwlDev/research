@@ -6,7 +6,6 @@ public class BuggyCode {
     private String email;
     private String phoneNumber;
     private String occupation;
-    private String testing;
  
     public BuggyCode(String name, int age, String address, String email, String phoneNumber, String occupation) {
         this.name = name;
@@ -14,7 +13,6 @@ public class BuggyCode {
         this.address = address;
         this.email = email;
         this.phoneNumber = phoneNumber;
-        this.testing = "";
         this.occupation = occupation;
     }
  
